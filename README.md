@@ -1,2 +1,2 @@
-# asteriods
+# asteroids
 bootdev game
